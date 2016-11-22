@@ -2,7 +2,18 @@
 
 This is a demo book.
 
-demo 1
+## build
+
+```bash
+gitbook install
+gitbook serve
+
+# view http://localhost:4000
+```
+
+## demo
+
+### demo 1: typescript
 
 ```typescript
 class Polygon {
@@ -16,7 +27,7 @@ class Polygon {
 }
 ```
 
-demo 2
+### demo 2: javascript
 
 ```javascript
 function foo(bar) {
