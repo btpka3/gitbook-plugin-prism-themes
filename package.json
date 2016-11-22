@@ -1,0 +1,28 @@
+{
+  "name": "gitbook-plugin-prism-themes",
+  "version": "0.0.1",
+  "description": "Gitbook plugin for prism-themes base on gitbook-plugin-prism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btpka3/gitbook-plugin-prism-themes.git"
+  },
+  "author": "btpka3@163.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/btpka3/gitbook-plugin-prism-themes/issues"
+  },
+  "homepage": "https://github.com/btpka3/gitbook-plugin-prism-themes#readme",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "dependencies": {
+    "prism-themes": "^1.0.0"
+  },
+  "devDependencies": {
+    "gitbook-tester": "^1.4.3"
+  }
+}
