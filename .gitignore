@@ -40,3 +40,4 @@ jspm_packages
 #
 *.iml
 .DS_Store
+_book
